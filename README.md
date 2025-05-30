@@ -276,11 +276,11 @@ Submit pull request
 
 Contribution Areas
 
-🧠 AI Models: New financial reasoning capabilities
-⚡ Performance: GPU optimization improvements
-🎨 UI/UX: Interface enhancements
-📚 Documentation: Tutorials and guides
-🔧 Tools: Development utilities
+ AI Models: New financial reasoning capabilities
+ Performance: GPU optimization improvements
+ UI/UX: Interface enhancements
+ Documentation: Tutorials and guides
+ Tools: Development utilities
 
 Code Style
 
@@ -290,19 +290,19 @@ Add docstrings for functions
 Include type hints where possible
 
 
-📄 License
+ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-⚠️ Disclaimer
+ Disclaimer
 IMPORTANT: This AI system is for educational and research purposes only.
 
-📚 Educational Use: Designed for learning about AI and finance
-🚫 Not Financial Advice: Do not use for actual investment decisions
-👨‍💼 Consult Professionals: Always seek certified financial advisors
-⚖️ Legal Compliance: Ensure compliance with local financial regulations
+ Educational Use: Designed for learning about AI and finance
+ Not Financial Advice: Do not use for actual investment decisions
+ Consult Professionals: Always seek certified financial advisors
+ Legal Compliance: Ensure compliance with local financial regulations
 
 
-🙏 Acknowledgments
+ Acknowledgments
 
 Qwen Team - For the amazing base model
 Hugging Face - For the transformers library and model hosting
@@ -314,10 +314,10 @@ Rich - For beautiful console output
 📞 Support
 Getting Help
 
-📖 Documentation: Check this README first
-🐛 Bug Reports: Open an issue with detailed description
-💡 Feature Requests: Describe your use case
-💬 Questions: Use GitHub Discussions
+ Documentation: Check this README first
+ Bug Reports: Open an issue with detailed description
+ Feature Requests: Describe your use case
+ Questions: Use GitHub Discussions
 
 Contact
 
